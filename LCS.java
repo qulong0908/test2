@@ -5,6 +5,7 @@ public class LCS {
 		String a=new String("fa");
 		String b=new String("fa");
 		System.out.print(a==b);
+		int aa3= 1;
 //		String X = "ak46deetyyxaz";
 //		String Y = "k6dcbtacbzeg";
 //		char[] x = X.toCharArray();
