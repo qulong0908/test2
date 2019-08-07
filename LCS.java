@@ -1,12 +1,12 @@
 package algorithms;
 
-//
 
 public class LCS {
 	public static void main(String[] args){
 		String a=new String("fa");
 		String b=new String("fa");
 		System.out.print(a==b);
+		String d = "44";
 //		String X = "ak46deetyyxaz";
 //		String Y = "k6dcbtacbzeg";
 //		char[] x = X.toCharArray();
