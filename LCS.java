@@ -1,5 +1,7 @@
 package algorithms;
 
+//
+
 public class LCS {
 	public static void main(String[] args){
 		String a=new String("fa");
